@@ -1,0 +1,12 @@
+{
+  "name": "WitterFTSO",
+  "website": "https://witterftso.com",
+  "general": "I'm the only developer, with one business-focused partner. I'm a software developer based on the east coast of the USA",
+  "infrastructure": "Yes, we've always run our own infrastructure. We run a few observation nodes, hardware for a Flare validator, and some other miscellaneous servers.",
+  "safeguards": "Yes. FTSO community is very aware of what common safeguards are necessary. We have stablecoin depeg protection, and outlier protection, among others.",
+  "availability": "Began operating November 2021 on Songbird and ASAP after Flare launch. We had our fair share of downtime in 2021 and early 2022, but as our monitoring and infrastructure matured I learned how to mitigate most of it. It happens occasionally, just like with all providers, but fixes are much faster now.",
+  "selling": "I split rewards with my partner, and can only account for my portion of rewards. I sell enough to cover taxes. Sometimes I sell to cover infrastructure cost, but this is often out of pocket. I no longer take a salary, the rest is generally wrapped. I do not think providers should be judged by their sales percentage. Small providers may have to sell 100% and still be in the red, large providers may have employees to pay.",
+  "tooling": "We've built a couple developer tools, and have some market making software running in the background on the network. Unfortunately, our FTSO is the only customer facing app at the moment. Hopefully that will change, when I get inspiration and time!",
+  "sgb_claim_addresses": "WitterFTSO - This info is public on chain for all providers, I invite you to search if you are so inclined",
+  "flr_claim_addresses": "WitterFTSO - N/A"
+}

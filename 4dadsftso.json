@@ -1,0 +1,12 @@
+{
+  "name": "4DadsFTSO",
+  "website": "https://4dads.io",
+  "general": "4 dads, 13 children. Childhood friends and born and raised in the Midwest. 2 full stack engineers, a real cfo and a mysterious defi dude.. 60+ combined years of industry consulting experience ranging from treasury management, healthcare, financial sectors, defense and cleaning fishtanks.",
+  "infrastructure": "Unfortunately, we do run our own infrastructure. Our host of choice is AWS and servers based in Virginia. We run 2 observation nodes, we practice docker inception, run dedicated vpn servers (fuck you cz), and monitor submissions with pi’s in someone’s basement. We plan to run bare metal servers, purchased 5 of them, but they are paper weights...and currently in someone’s basement.",
+  "safeguards": "Our algo is very “special”...we reflect prices from over 20+ cex’s and written from scratch using NodeJS, with a lot of ascii art. We have depegs protections and feeds cut off when they fall below a certain thresholds for the following stables: usdt, usdc, and busd",
+  "availability": "Since epoch 6-ish on the Songbird Network. It's been awhile, but we can confirm that Alex dupre was here before us.",
+  "selling": "We operate at a loss financially and mentally.",
+  "tooling": "We have some ideas, but need to cleanup some people in the background first…and maybe we should replace our placeholder website one day.",
+  "sgb_claim_addresses": "0x35D73107A089Ac2b3b14a6681D8c408Aab9568D3",
+  "flr_claim_addresses": "0xc522e6a633545872f1afc0cdd7b2d96d97e3de67"
+}

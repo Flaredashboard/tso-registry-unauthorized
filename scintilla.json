@@ -1,0 +1,12 @@
+{
+  "name": "Scintilla",
+  "website": "https://www.scintilla.io",
+  "general": "Country of origin: Australia.",
+  "infrastructure": "Running our own infrastructure via AWS: DNS, NAT, load balancers, observation nodes (including redundant) for Songbird and Flare, Data Provider application servers. Cost per month: $2100 (USD)",
+  "safeguards": "Numerous safeguards have been applied. Outlier price detection, Exchange API outage detection, stablecoin depeg protection.",
+  "availability": "STSO launched 7 October 2021. FSTO launched 29 July 2022.",
+  "selling": "Both STSO and FTSO currently operating at a loss. Rewards are routinely moved to exchange wallet after claiming but vast majority of SGB and majority of FLR has so far been retained. Sales are made to pay for a proportion of infrastructure costs. Company losses are currently covered by ongoing Directors' loans.",
+  "tooling": "Currently considering a variety of dApps for Songbird and Flare.",
+  "sgb_claim_addresses": "0xE70d5351a842131c66AAeBC4bD604912BF3cBa72, 0x431Ef74feB1dFa74A2FEae7fc8B12Fb05911Da66",
+  "flr_claim_addresses": "0xeFb939Ebe430efD987c2650367a1b2c9f070d3f1, 0x521D9A3ba6aE9EAB83d6E937a72F99E6081700F1"
+}

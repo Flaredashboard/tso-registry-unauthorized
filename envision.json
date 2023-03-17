@@ -1,0 +1,12 @@
+{
+  "name": "Envision",
+  "website": "https://www.envisionftso.com",
+  "general": "Envision is a 2-person team based in Gibraltar, an overseas British territory at the southernmost tip of continental Europe. We have over 20 years combined experience in building and delivering technology solutions.",
+  "infrastructure": "Envision runs dedicated infrastructure with independent nodes on both Songbird and Flare plus backups in place to ensure resiliency. We have integrations with approx. 10 different exchanges to obtain price data along with a dedicated database to manage price information. We also intend to run a full validator node and become an attestation provider. All infrastructure is hosted by Amazon Web Services (AWS) with costs c. $2.5k per month.",
+  "safeguards": "Envision has safeguards in place to help protect the integrity of price information supplied to the network. We have automatic monitoring in place to ensure anomalies within the data are removed from our algorithms. ",
+  "availability": "Envision has been submitting prices Songbird since Sep-22 and on Flare since Nov-22. Our uptime has been good and any issues leading to brief downtime have been quickly addressed by the team.",
+  "selling": "Envision believes in the growth of the network and to date has not sold any tokens other than to fund operational costs.",
+  "tooling": "Envision is currently working on building a new delegation app and also looking at metrics tools which could benefit the community and help educate users around the network operation.",
+  "sgb_claim_addresses": "0x58Cd43E9FcdBd4D0F507aB4f6029dB8032746da8",
+  "flr_claim_addresses": "0x9b42B895D2A10D048eaf4996fDf93aEBf59167BF"
+}
