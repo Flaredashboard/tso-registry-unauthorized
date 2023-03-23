@@ -1,0 +1,12 @@
+{
+  "name": "Oracle Daemon",
+  "website": "https://www.oracle-daemon.com",
+  "general": "Slovenia, Computer engineers.",
+  "infrastructure": "We have our own infrastructure. We run 5 dedicated servers, with 4 public full-history Flare and 4 full-history Songbird nodes. Our monthly cost for infrastructure is 3100 EUR, all programing and maintenance we do for free.",
+  "safeguards": "We use multiple signals and do not allow deviation outside of those.",
+  "availability": "We started submitting among 1st FTSOs. We thrive to maintain 100% availability. We were mainly down when we had signals issues (no signals - no output), but we fixed this now.",
+  "selling": "Out FTSO is about correct data, we keep 100% FLR and sell ~75% of SGB for costs.",
+  "tooling": "(1) We build API for FTSO and STSO monitoring:  https://api.oracle-daemon.com/v1/providers  (2) We are developing API for FTSO providers in C# (running on Linux, Windows and MAC). (3) We publicly share 3 Flare and Songbird nodes. (4) We publicly share 3 signal collectors.",
+  "sgb_claim_addresses": "0x92d6c2e99d5959f2e9c0a7aba5149d8a5ef22f23",
+  "flr_claim_addresses": "0xfe532cB6Fb3C47940aeA7BeAd4d61C5e041D950e"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "FTSchizO",
+  "website": "https://ftschizo.xyz",
+  "general": "FTSchizO is a solely run FTSO operation by myself, I am a Canadian IT professional who loves exploring the different technologies of crypto and as an avid XRP holder who has long awaited their airdrop ever since December 2020 I just wanted to say I'm really excited for the future of Flare Networks.",
+  "infrastructure": "At FTSchizO I pay about $45 a month for a Contabo VPS which gives me enough storage space to fit observer nodes for both SGB and FLR.",
+  "safeguards": "FTSchizO has not progressed far enough in our ftso career to factor in outside forces such as depegs and liquidations. I am currently starting off by retrieving price and volume data ",
+  "availability": "FTSchizO began the STSO around September 13, 2022 and my FTSO around October. My availability for both providers have been near perfect ever since, save a couple times where either my algorithm crashed and wasn't submitting prices or my self hosted node went down. I've learned a lot ever since by developing my own monitoring tools to ensure maximum uptime.",
+  "selling": "FTSchizO has never sold a single FLR token since receiving the grant. Although it may have been a little disheartening seeing other providers run off with their money but after already waiting over 2 years for my airdrop I've learned that this journey has only begun. I've been paying for server costs out of pocket simply because I believe in Flare Networks offering one of the most bleeding edge usecases in crypto in a long time.",
+  "tooling": "FTSchizO has created a few private tools to help monitor the it's personal performance in contrast to the wider FTSO space. I am currently working on a new tool that would help my price submissions reduce huge deviance and try to stay within the reward bands.",
+  "sgb_claim_addresses": "0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86",
+  "flr_claim_addresses": "0xa41d19F4258a388c639B7CcD938FCE3fb7D05e86"
+}

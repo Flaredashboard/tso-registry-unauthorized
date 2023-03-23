@@ -1,1 +1,12 @@
-{"general": "AFOracle. We are a team of dApp/tooling developers. We are based in Slovenia. ", "infrastructure": "AFOracle. We run all of our infa. Flare and songbird nodes (also coston2 node for testing). Backup nodes and seperate server for exchange data agregation. Cca 2000 ero/month", "safeguards": "AFOracle. Yes we have a few safequards. Some are better than others but it is getting better.", "availability": "AFOracle. We started submiting on epoch 2 on SGB. We are among the oldest FTSO\u2019s", "selling": "AFOracle.  We have to sell some to cover the taxes and infra costs (cca 30%)  We try to sell when volume spikes and not to crash the market. Cca 30% are left for longterm holding/compounding. Rest is sold when we see fit.", "tooling": "AFOracle. Connect libs, perifery. Some python tooling specific to flare\u2026", "sgb_claim_address": "0", "flr_claim_address": "0"}
+{
+  "name": "AFOracle",
+  "website": "https://aforacle.com",
+  "general": "We are a team of dApp/tooling developers. We are based in Slovenia. ",
+  "infrastructure": "We run all of our infa. Flare and songbird nodes (also coston2 node for testing). Backup nodes and seperate server for exchange data agregation. Cca 2000 ero/month",
+  "safeguards": "Yes we have a few safequards. Some are better than others but it is getting better.",
+  "availability": "We started submiting on epoch 2 on SGB. We are among the oldest FTSO’s",
+  "selling": "We have to sell some to cover the taxes and infra costs (cca 30%)  We try to sell when volume spikes and not to crash the market. Cca 30% are left for longterm holding/compounding. Rest is sold when we see fit.",
+  "tooling": "Connect libs, perifery. Some python tooling specific to flare…",
+  "sgb_claim_addresses": "",
+  "flr_claim_addresses": ""
+}
