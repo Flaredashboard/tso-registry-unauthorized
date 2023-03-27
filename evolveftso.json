@@ -1,12 +1,13 @@
 {
   "name": "EvolveFTSO",
   "website": "https://evolveftso.com",
+  "twitter": "https://twitter.com/EvolveFTSO",
   "general": "We are a small group of around 4 people that contribute to EvolveFTSO    Our developers are full stack developers so get into any work that needs doing (website, tools, new projects, etc) apart from the algo which is only developed the founder    We're all based in the UK apart from our designer",
   "infrastructure": "Our infrastructure is mostly in Azure - we have many high performance VMs there    We have nodes, backup nodes, multiple servers/backup servers for our algo and services, test servers, etc - our Azure costs are very high    We also bought multiple servers (and plan to buy more) to host locally and plan to move more out of Azure  We also plan to run a validator locally",
   "safeguards": "Our algo uses a mix of USD, USDT and USDT converted to USD prices    If USDT starts to depeg, then USDT prices are dropped and just USD and USDT converted to USD prices are used  If prices become stale, the algo also will ignore them  We also review the top exchanges for symbols and will add/remove exchange pairs as required",
   "availability": "I don't remember the exact date we started submitting prices but it was around Feb 22 for Songbird and perhaps July 22 for Flare    Our FTSO availability is very good    We've had some situations where the service goes down - often it's in the middle of the night so we've developed systems to help with this - we developed a monitoring tool that sends emails and text messages if there's problems. I also have an mobile app to alert me know when there are problems    We have backup servers/nodes also so usually able resolve the situation very quickly. Also some parts have automatic systems for failover",
   "selling": "We have a lot of infrastructure and developer costs - these can't be paid in SGB/FLR so we do sell a chunk of rewards to pay for our costs",
   "tooling": "We work on various ideas/projects  Things we have been looking into include a new website with better FTSO metrics/delegation tools, a fund token and NFTs with actual assets backing them    Although currently we're prioritising restructuring and moving servers out of Azure to reduce costs",
-  "sgb_claim_addresses": "0x0f80af5b905a9a34f69e74412c4a00b231d26daa",
-  "flr_claim_addresses": "0x9b5F4A2177135A2A6DC83893D5d58e684419aB24"
+  "sgb_claim_addresses": ["0x0f80af5b905a9a34f69e74412c4a00b231d26daa"],
+  "flr_claim_addresses": ["0x9b5F4A2177135A2A6DC83893D5d58e684419aB24"]
 }

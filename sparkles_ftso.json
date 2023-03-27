@@ -1,12 +1,13 @@
 {
   "name": "Sparkles FTSO",
   "website": "https://sparklesnft.com",
+  "twitter": "https://twitter.com/SparklesNFT",
   "general": "Sparkles is a NFT marketplace. We created our FTSO as we feel it is right to contribute to all the core protocols unique to Flare. For our FTSO we do not employ a dedicated team rather use in house resources as needed to maintain and update as needed. Sparkles devs are all over the world to help us with uptime and other requirements. The sparkles devs are made of some of the best in web3 that have worked on major applications on eth and other evm chains.",
   "infrastructure": "Yes we run alot of infrastructure. We require access to full archival nodes for the marketplace. So for songbird we run 2 archivals, flare 2 archivals. We then run lite nodes for the FTSO 1 songbird, 1 flare. Also recently set up validator node for flare. Our avg costs just for infrastructure is north 10k usd per month. We require additional cloud resources for our marketplace that is not factored into the total cost.",
   "safeguards": "We implement outlier protections on our data sets. We also have an agile team that can act quickly should major intervention be required ",
   "availability": "I guess could check exactly on chain but we started our FTSO shortly after it was available on Songbird and have been since day 1 on flare. Downtime. We had some hiccups in early days with unstable nodes since flare switched from rocks db to level have not had alot of issues with the nodes.",
   "selling": "Sparkles adds our SGB &FLR generated from the FTSO  to our weekly review of \"cashflow\" we liquidate all crypto as needed to pay operating expenses. We use market makers when we can to reduce sell orders, we also never market sell or sell any large % of daily trading volume. To the direct question we do not track % of rewards sold.",
   "tooling": "App is already out on Songbird & Flare. Lots more is planned and excited to bring more features to the community ",
-  "sgb_claim_addresses": "0x3012c799565010c3b090d252839a3d24f3b766be",
-  "flr_claim_addresses": "0x3D985CFF3C4680428d5ce093dBc4919a57F6E2f6"
+  "sgb_claim_addresses": ["0x3012c799565010c3b090d252839a3d24f3b766be"],
+  "flr_claim_addresses": ["0x3D985CFF3C4680428d5ce093dBc4919a57F6E2f6"]
 }

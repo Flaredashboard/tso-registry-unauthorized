@@ -7,6 +7,6 @@
   "availability": "July 2022, scripts to check health of the submitter / node instantly messaging via bot for fast reaction",
   "selling": "No coin sold until this day",
   "tooling": "Still in research",
-  "sgb_claim_addresses": "0x1C602a30335187A97D8061Ffffd4522796DE82bF",
-  "flr_claim_addresses": "0xad918962795547a8c997F96f7BAbB822612a5FfE"
+  "sgb_claim_addresses": ["0x1C602a30335187A97D8061Ffffd4522796DE82bF"],
+  "flr_claim_addresses": ["0xad918962795547a8c997F96f7BAbB822612a5FfE"]
 }

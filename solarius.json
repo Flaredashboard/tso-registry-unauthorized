@@ -1,12 +1,11 @@
 {
   "name": "Solarius",
   "website": "https://www.solarius.io/ftso",
+  "twitter": "https://twitter.com/SolariusFTSO",
   "general": "Solarius is a small team of just 2 people - we both work on Solarius part time and both are developers in the UK",
   "infrastructure": "Solarius hosts servers in the cloud - we have a Songbird and Flare node and various other VMs to host our services. These represent the biggest cost for our services  We've also purchased a high spec server to run as a Flare validation node",
   "safeguards": "We have safeguards in place to protect again USDT depeging or an exchange going down. When USDT depegs, we drop USDT prices and just use USD prices. If USDT is pegged to the dollar then we use USDT and USD prices",
   "availability": "We started submitting prices around May 2022 but had been building/testing our services for many months before that  We try to achieve as high availabilty as possible and have various tools to monitor and alert us if things break  We also have some backup systems which we can use if services can't be fixed quickly",
   "selling": "We've been mostly running at breakeven or a loss - we sell a proportion of the FLR/SGB to pay for the service's costs. When we sell, we use scripts to slowly sell using small orders to not affect the market's price",
-  "tooling": "We are exploring various project ideas but haven't made much progress so far as our focus has been on the FTSO so far. First thing we want to do is improve our website and delegation tools which we have started doing",
-  "sgb_claim_addresses": "Solarious: We claim all our rewards to our main service address",
-  "flr_claim_addresses": "Solarious: We claim all our rewards to our main service address"
+  "tooling": "We are exploring various project ideas but haven't made much progress so far as our focus has been on the FTSO so far. First thing we want to do is improve our website and delegation tools which we have started doing"
 }
