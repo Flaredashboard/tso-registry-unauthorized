@@ -6,7 +6,5 @@
   "safeguards": "We have several safeguards in our algorithm, we exclude single markets with anomalies and all markets with a stablecoin when it depegs. We use several exchanges with USD and stablecoin markets to easily spot  anomalous conditions.",
   "availability": "We were in the first set of providers on both Songbird and Flare. Since the inception of the networks I think we had about 99.9% of availability. It's not a guarantee for the future, of course.",
   "selling": "Until now (more than a year) we haven't sold a single SGB or FLR. This doesn't mean that we never will, obviously.",
-  "tooling": "We've built one of the first tools to wrap & delegate, and to show FTSO provider performances, available on https://ftso.alexdupre.com  A-FTSO is also part of a larger team behind BlazeSwap, a DEX to swap ERC-20 tokens, fully integrated with the Flare components, available on https://blazeswap.xyz  We also contribute to many open source projects to improve the support for the Flare blockchains.",
-  "sgb_claim_addresses": "A-FTSO: we change it frequently, you can get the data from the blockchain",
-  "flr_claim_addresses": "A-FTSO: we change it frequently, you can get the data from the blockchain"
+  "tooling": "We've built one of the first tools to wrap & delegate, and to show FTSO provider performances, available on https://ftso.alexdupre.com  A-FTSO is also part of a larger team behind BlazeSwap, a DEX to swap ERC-20 tokens, fully integrated with the Flare components, available on https://blazeswap.xyz  We also contribute to many open source projects to improve the support for the Flare blockchains."
 }

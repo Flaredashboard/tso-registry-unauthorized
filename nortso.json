@@ -1,12 +1,13 @@
 {
   "name": "NORTSO",
   "website": "https://nortso.xyz",
+  "twitter": "https://twitter.com/nortso",
   "general": "Norway. Solo team ran by a senior software engineer",
   "infrastructure": "1 node on Songbird, and 2 nodes on Flare (1 observation node and 1 to be validation). I intend to expand the infrastructure when we can run real validators. Current expenses are about 750 USD/month",
   "safeguards": "There are multiple safeguards. The most important ones are depegging of stablecoins exchange feed issues",
   "availability": "STSO: April 2022, FTSO: July 2022. Availability is close to 100%. Usually solved by just restarting the provider",
   "selling": "FTSO: Sold nothing, STSO: Swapping 50% to CAND on the FlrFinance dex and donated to FlrLoans. The other half has been swapped to EXFI",
   "tooling": "Providing a tool on nortso.xyz that lets users analyze their performance in the FlrFinance ecosystem",
-  "sgb_claim_addresses": "0x04a8b3171fBbfe4554B55190B43E709c4b672030",
-  "flr_claim_addresses": "0x5E42b020aC0B8DA6ec190899ffd560373f1979e8"
+  "sgb_claim_addresses": ["0x04a8b3171fBbfe4554B55190B43E709c4b672030"],
+  "flr_claim_addresses": ["0x5E42b020aC0B8DA6ec190899ffd560373f1979e8"]
 }

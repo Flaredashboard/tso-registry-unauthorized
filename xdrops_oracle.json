@@ -1,12 +1,13 @@
 {
   "name": "Xdrops Oracle",
   "website": "https://www.xdrops.live",
+  "twitter": "https://twitter.com/XdropsOracle",
   "general": "Xdrops Oracle is Croatia based provider. For now I am solo, FTSO only team. I don't outsource any of the tasks. Infrastructure setup, software development, socials, web page are all done in house. ",
   "infrastructure": "I used to run 2 observation nodes for each of the networks. Due to the nature of the rewards and lack of community votes, I had to reduce to one cloud hosted observation node per network. I am also preparing infrastructure to run Flare validator node. Total infrastructure costs (nodes + other) will be approximately 500$/month when validator node is up and running. This can also increase if I go ahead with ML improvements for the provider. It's important to note that infrastructure costs are not the only costs FTSO provider needs to deal with.",
   "safeguards": "I am using several safeguards for the provider. Stablecoin pairs are not included in price calculation in case they deviate too much from USD value. I don't include trading pair if there is no traded volume. I filter outliers by calculating standard deviation and excluding any prices which deviate too much from others.",
   "availability": "Xdrops Oracle started submitting on Songbird network sometime in November 2021. We were also in first 10 providers to start submitting on Flare. I tend to keep 100% of availability of provider, but of course there are times when this is not possible. Downtime is detected and notified via Telegram chat. Bot can handle multiple  scenarios of failure and restart itself. There is also a mechanism to check health and availability of the submitting node, and transfers to backup node in case submissions are not possible. I built also the monitoring tool, which allows me to check for rogue exchanges, missed epoch submissions etc.",
   "selling": "While I sold some of the rewards in the beginning of 2022, no SGB of FLR rewards were sold for months ever since, including FLR grant. Of course there will be need in the future to cover the costs and invest in future developments. For now I don't take immediate pay for the countless hours spent in development and setup.",
   "tooling": "Considering that I am a one man band, there is limited time and resources to promise big development projects. I will focus on being the best possible FTSO provider, increase reward rates and attract some community votes. If I could do that, I will be able to spend more resources in development of tools and projects which could benefit the community. ",
-  "sgb_claim_addresses": "0x2d3bde536ad297f2ea74965f02c9e42f4780fb6a",
-  "flr_claim_addresses": "0x112B1130BD78B5A520adeace6130151E07a270a7"
+  "sgb_claim_addresses": ["0x2d3bde536ad297f2ea74965f02c9e42f4780fb6a"],
+  "flr_claim_addresses": ["0x112B1130BD78B5A520adeace6130151E07a270a7"]
 }

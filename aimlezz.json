@@ -1,12 +1,13 @@
 {
   "name": "Aimlezz",
   "website": "https://www.aimlezz.com",
+  "twitter": "https://twitter.com/AimlezzFTSO",
   "general": "Aimlezz is a two man band. I'm more the communication and fun one, my dev is my former classmate from high school, he is the one responsible for the specialized things, but he is shy and more the nerd type... We are both from Slovenia.",
   "infrastructure": "We host servers in cloud, we run one node for Songbird and one for Flare, and of course a high speced one for the validator. Our main cost are the servers ca. 600€/month, but of course my mate is not cheap, so every programming session cost me a fortune for candys.",
   "safeguards": "Yes, of course, we don't allow, that our prices goes out 5% range of the binance price.",
   "availability": "We began submitting prices for Songbird on 08.01.22 and 11.07.22 for Flare. We upgraded from an unstable system, to a very stable one, so our up time is now very high. We build some programs, who monitor and alert us, if something goes wrong.",
   "selling": "We are most of the time on a small profit, but we need to sell FTSO rewards, to be able to run. Everything what stays, goes to our staking wallet.",
   "tooling": "We are in the making of a game/dApp, and we have some ideas for future builds. ",
-  "sgb_claim_addresses": "0x0501b6306b03a9eede8165d4b9abcb4915937b89",
-  "flr_claim_addresses": "0xD1eDC6Dd3Ba8b0881A44002Ac501a69E924b8F00"
+  "sgb_claim_addresses": ["0x0501b6306b03a9eede8165d4b9abcb4915937b89"],
+  "flr_claim_addresses": ["0xD1eDC6Dd3Ba8b0881A44002Ac501a69E924b8F00"]
 }

@@ -1,12 +1,13 @@
 {
   "name": "FTSOuk",
   "website": "https://www.ftso.uk",
+  "twitter": "https://twitter.com/ftso_uk",
   "general": "Ftso team, developer team, business development team. UK based with team members in US and Europe",
   "infrastructure": "We run our infrastructure on AWS and our cost are between £4,500 - £5,000",
   "safeguards": "Our algorithm is our own proprietary solution. We have several safeguards to make sure we always maintain a true representation of the currency pair. Depegs and exchange crashes have been factored in to our pricing model, along with some bespoke monitoring tools on our own infrastructure ",
   "availability": "We have been submitting prices from the go live days of both STSO and FTSO. We are a dynamic team that is always adjusting and iterating our solution. Our availability averages 100%, however we have seen drops on this when we make some code changes. We have had 2 major outages in our history where we were offline for more that 4hrs. Our auto reset function failed on both occasions, the monitoring tool then alerted our team and our manual reset action was trigged. The tech team gather the logs for later diagnostics, we manually reset our service and within 2 mins we are back online.",
   "selling": "We have had to liquidate the largest portion of our SGB rewards to be covering cost. Staffing and Tech need to be covered so we make decisions based on making sure we can maintain our vital service to the network. We are running at a loss as a business. Our belief in Flare and that the community will start to support good providers still stands true. We have not sold any FLR s",
   "tooling": "We have several projects we are looking to bring into the network. One is a Hospitality and Leisure dApp that will use the full function of the network and have global reach    We have consulted to a project that has already been announced on the network     A gaming project are looking for a new home and we are championing Flare as the best place for them to be. We also have another project that is close to being announced that we look forward to sharing with you soon ",
-  "sgb_claim_addresses": "0xb9b7355f5b71cee345311921d247b1d2ba5cfe90",
-  "flr_claim_addresses": "0x5F911C2C681f678e5A3a8D54f950d6b192CC16E3"
+  "sgb_claim_addresses": ["0xb9b7355f5b71cee345311921d247b1d2ba5cfe90"],
+  "flr_claim_addresses": ["0x5F911C2C681f678e5A3a8D54f950d6b192CC16E3"]
 }
