@@ -1,0 +1,12 @@
+{
+  "name": "Ivy Oracle",
+  "website": "https://ivyoracle.xyz/",
+  "twitter": "https://twitter.com/ivy_oracle",
+  "general": "Low fee and optimised rewards, Ivy Oracle strive for providing the best open analytics tools for the community.",
+  "infrastructure": "AWS and on prem servers",
+  "availability": "Operating since June 2022",
+  "safeguards": "Ivy Oracle dynamically select or discard price feed when they deviate or converge with the latest median at each price epoch, data feed are carefully crafted from over 100 exchanges, with straight selection requirements to ensure data quality.",
+  "tooling": "FTSO Data provider dashboard and delegation statistics.",
+  "sgb_claim_addresses": ["0xA174D46EF49D7d4a0328f9910222689E9eAb2f45"],
+  "flr_claim_addresses": ["0x64D998BC81424131E5aF05071263fDeBD1a82986"]
+}
