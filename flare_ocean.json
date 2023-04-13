@@ -1,0 +1,13 @@
+{
+  "name": "Flare Ocean",
+  "website": "https://flareocean.io",
+  "twitter": "https://twitter.com/flareocean_io",
+  "general": "Based in the USA, FlareOcean is a strong builder on Flare and Songbird and provides data to the FTSO system. We have our own metrics system and are building a game and a NFT marketplace, offering a range of unique digital assets for users to buy, sell, and trade. Our team consists of 4 front-end and full-stack developers. They are all specialized in Blockchain & web development.",
+  "infrastructure": "We have 1 node on Songbird, 2 nodes on Flare, and 5 other VMs to host our our metrics, games and a marketplace. They are all hosted in the cloud and currently our cost are between $2500 - $3000",
+  "safeguards": "We don't use all prices directly from various data sources. If all providers only use USD prices, we don't need to worry about stablecoin depeg. However, most exchanges offer prices for stablecoins such as USDT, USDC, etc. that are not in pure USD format. So, first we convert those prices to USD and then forecast with the converted data.  We do the SPECIAL conversion through the prices in USD.",
+  "availability": "We begun submitting data to Songbird in February 2023 and to Flare at the end of March 2023. It has been stopped several times due to lack of vote power. Our availability is close to 100%.",
+  "selling": "Due to the development of several projects, we currently operate at a large deficit. While our goal is to hold and wrap as much FLR as possible, we anticipate using a majority of the early proceeds to cover costs, development and growing our platforms",
+  "tooling": "We've built FlareOcean metrics with a wide range of functions. Our games and marketplaces will be launched on the Flare network to engage users. FlareOcean's NFT marketplace is an exciting new addition to the Flare Network, offering users a secure and affordable platform for buying and selling unique digital assets. Our goal at FlareOcean is to become a leader in the growing network by focusing on user experience and community building.",
+  "sgb_claim_addresses": ["0xf4213E49488b9320769D35924AC52ea31a4C9fc1"],
+  "flr_claim_addresses": ["0x50bd2D0B457E27a481f97C4685d16EeB8B978155"]
+}
