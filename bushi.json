@@ -1,0 +1,12 @@
+{
+  "name": "BushiFTSO",
+  "website": "https://bushi.finance",
+  "twitter": "https://twitter.com/BushiFinance",
+  "general": "Sending prices from central Europe, run by a solo dev",
+  "infrastructure": "1 Songbird node, 2 Flare nodes (observation and validator). Current expenses are about 400 USD/month",
+  "safeguards": "Multiple safeguards, including USD conversion in case of stable coin depegs, removing unusable prices based on variance and more.",
+  "availability": "Both STSO and FTSO have been running shortly after it became possible. Availability is usually high, issues solved by an automatic restart",
+  "selling": "FTSO: Sold only to cover costs long after TDE, around 4K USD, STSO: Sold nothing.",
+  "sgb_claim_addresses": ["0x0d3852ad415477ffc39ce9351bd4dedbbd585833"],
+  "flr_claim_addresses": ["0xC7cF3238D2ca63d01Ad4d42B4cCB9dB8b0adE702"]
+}
