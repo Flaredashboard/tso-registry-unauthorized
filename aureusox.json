@@ -1,0 +1,14 @@
+{
+  "name": "Aureus Ox",
+  "website": "https://aureusox.com",
+  "twitter": "https://twitter.com/AureusOx",
+  "general": "Aureus Ox runs a provider service which has been submitting high quality pricing data since epoch 1 on the Songbird network. We pride ourselves on consistency, resilient data aggregation algorithms, and maintained uptime.",
+  "infrastructure": "Aureus Ox maintains multiple nodes on Songbird + Flare and develops custom tooling to monitor and mitigate any potential service downtime. We also maintain application services to wrap, delegate and claim on both the Songbird and Flare networks",
+  "safeguards": "We implement multiple safegaurds, not limited to stable coin de-pegs",
+  "availability": "Aureus Ox has maintained close to ~100% uptime for provider services since conception on Songbird.",
+  "selling": "Aureus Ox has sold to cover costs of infastructure and to build further.",
+  "tooling": "All tooling is built in house. Wrap, delegate, and claim all from the Aureus Ox dash: https://aureusox.com/dashboard",
+  "products": ["https://aureusox.com/dashboard"],
+  "sgb_claim_addresses": [],
+  "flr_claim_addresses": []
+}
