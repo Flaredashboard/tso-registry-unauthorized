@@ -1,0 +1,12 @@
+{
+  "name": "KnotNodes",
+  "website": "https://www.knotnodes.com",
+  "twitter": "https://twitter.com/knotnodes",
+  "general": "Germany, Computer engineers who support decentralized tech and love tinkering. ",
+  "infrastructure": "We primarily utilize AWS. ",
+  "availability": "Operating since Janurary 2022",
+  "safeguards": "Our algorithm selects only accurate and trustworthy data feeds from a large number of exchanges and has safeguards to prevent inaccurate data from being used, providing reliable price data.",
+  "tooling": "We are continuously enhancing and refining the central algorithm used to supply data. As soon as we believe that we have attained diminishing returns, we will develop an exciting innovation for the Flare community.",
+  "sgb_claim_addresses": ["0x4619Ae2f09cF5e6da873C501a12D86AaCbD7962B"],
+  "flr_claim_addresses": ["0xF33A0Ac50f2E85737af577ea68583f264C7A1f78"]
+}
