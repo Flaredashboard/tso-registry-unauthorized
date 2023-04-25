@@ -1,0 +1,14 @@
+{
+  "name": "Bifrost Oracle",
+  "website": "https://bifrostoracle.com",
+  "twitter": "https://twitter.com/bifrostwallet",
+  "general": "Bifrost Oracle is a reliable oracle service run by Towo Labs, a Songbird and Flare development partner and the company behind Bifrost Wallet.",
+  "infrastructure": "We maintain node clusters for both Songbird and Flare, faucets for Coston and Coston 2, as well as other public infrastructure.",
+  "safeguards": "We implement multiple safeguards, including protection against depegging events and exchange anomalies.",
+  "availability": "Bifrost Oracle has maintained close to 100% uptime since the first epoch on both Songbird and Flare.",
+  "selling": "Bifrost Oracle has sold some tokens to develop and maintain our products Bifrost Wallet and Bifrost Claim Bot.",
+  "tooling": "All our software is built in-house. You can find our non-custodial mobile wallet Bifrost Wallet on Google Play and App Store.",
+  "products": ["https://bifrostwallet.com/", "https://faucet.towolabs.com/"],
+  "sgb_claim_addresses": ["0xdD76d702358936Af39c0E9F7E71F9512C83cacaE"],
+  "flr_claim_addresses": ["0xdD76d702358936Af39c0E9F7E71F9512C83cacaE"]
+}
