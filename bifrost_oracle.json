@@ -9,6 +9,6 @@
   "selling": "Bifrost Oracle has sold some tokens to develop and maintain our products Bifrost Wallet and Bifrost Claim Bot.",
   "tooling": "All our software is built in-house. You can find our non-custodial mobile wallet Bifrost Wallet on Google Play and App Store.",
   "products": ["https://bifrostwallet.com/", "https://faucet.towolabs.com/"],
-  "sgb_claim_addresses": ["0xdD76d702358936Af39c0E9F7E71F9512C83cacaE"],
-  "flr_claim_addresses": ["0xdD76d702358936Af39c0E9F7E71F9512C83cacaE"]
+  "sgb_claim_addresses": ["0x69141E890F3a79cd2CFf552c0B71508bE23712dC"],
+  "flr_claim_addresses": ["0x9A46864A3b0a7805B266C445289C3fAD1E48f18e"]
 }
