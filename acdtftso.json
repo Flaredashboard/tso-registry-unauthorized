@@ -1,0 +1,14 @@
+{
+  "name": "ACDTftso",
+  "website": "https://www.acdtftso.it/",
+  "twitter": "twitter.com/acdtftso",
+  "general": "ACDTftso was developed solely by our skilled full-stack developer. Since it's quite fun to use the real we, I'm more comfortable using the first person. With a strong IT background, I developed the backend in NodeJS and created the algorithm without relying on machine learning. I've also written several dapps (which have yet to be published) and their respective front-ends that I hope it will be helpful for the users. As an XRP enthusiast and following the evolution of Flare and Songbird  from the beginning, ACDTftso is dedicated to providing the highest quality service to our users.",
+  "infrastructure": "Our infrastructure consists on 2 Hetzner-AX101 node to serve Flare and Songbird observation nodes. One more server is dedicated to serve the website and our monitoring tools. In the near feature, if it will be still sustainable, I'm planning to extends the infrastructure as the follow: Run 1 Flare full archival node, 1 Songbird full archival node, 1 Flare Validator node, make the 2 observation nodes public to allow users interact with the network. The infrastructure cost is actually at $400/m",
+  "safeguards": "ACDTftso constantly monitor each exchange stream, applying variance controls and depegs safeguards-",
+  "availability": "ACDTftso is proud to have been one of the first 7 providers to submit prices to the Flare network. While we can't provide very precise epochIDs (yet), we have been submitting prices for the Songbird network since January 2022, and for the Flare network since January 2023.",
+  "selling": "We sell tokens to fund operational costs (infrastructure, taxes and time). Before receiving Flare boost, I've bought about 30k SGB when the price was at 0.10$ to be able to enter in the whitelist for submitting prices.",
+  "tooling": "I'm actively working on a general purpose Dapp to allow users to easily interact with the network (wrap/unwrap, delegate, claim rewards, etc) with a captivating interface. I've developed a very cool web-app for monitoring the FTSO performance on both network with charts, stats and all that bells and whistles. I'll make it public sooner or later.",
+  "products": [],
+  "sgb_claim_addresses": ["0x86ec5c8ce7a4dd7762cff205d64bfc0c272feb6d"],
+  "flr_claim_addresses": ["0xAc2884A4479Bf7c21AA0462d52bc9c76c3a9A3dD"]
+}
