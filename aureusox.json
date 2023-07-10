@@ -9,6 +9,6 @@
   "selling": "Aureus Ox has sold to cover costs of infastructure and to build further.",
   "tooling": "All tooling is built in house. Wrap, delegate, and claim all from the Aureus Ox dash: https://aureusox.com/dashboard",
   "products": ["https://aureusox.com/dashboard"],
-  "sgb_claim_addresses": [],
-  "flr_claim_addresses": []
+  "sgb_claim_addresses": ["0x6d323e71e141ce2d7b752313c8a654a9c9d1b377"],
+  "flr_claim_addresses": ["0x9269fb79B098AB314de8A1E2AFb8705678520443"]
 }
