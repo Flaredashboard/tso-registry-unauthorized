@@ -1,0 +1,13 @@
+{
+  "name": "BestFTSO",
+  "website": "https://bestftso.xyz/",
+  "twitter": "https://twitter.com/BestFtso",
+  "general": "BestFTSO has been around since the very first epoch on the Songbird Network. BestFTSO provided the first NFT Marketplace on Songbird and provides additional NFTP claimable weekly.",
+  "infrastructure": "We monitor prices from dozens of exchanges and run a machine learning algorithm to determine the most accurate price for each asset.",
+  "safeguards": "Our algo uses machine learning, so it's always learning.",
+  "availability": "Since epoch #1 on the Songbird Network!",
+  "selling": "Does converting from SGB to FLR count as selling? Just enough to cover costs!",
+  "tooling": "You can delegate directly on our website! https://bestftso.xyz/",
+  "sgb_claim_addresses": ["0x939789ed3d07a80da886a3e3017d665cbb5591dc"],
+  "flr_claim_addresses": ["0x510Da05b7bf9d7713752da662AEdb26770F30d19"]
+}
