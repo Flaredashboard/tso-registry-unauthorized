@@ -8,7 +8,7 @@
   "availability": "FocusTSO is proud to be the first Polish Data Provider on the Flare Network. Operating since the end of July 2023, FocusTSO has been whitelisted on the Top100 from the second epoch of operations, thanks to the community.",
   "selling": "We currently do not plan to utilize the rewards we have earned, but in the future, if the costs associated with the development of FTSO increase, we plan to cover its operation from this pool.",
   "tooling": "FocusTSO has very ambitious plans to build on the Flare Network. Launching FTSO was just the first milestone. For now, improving the algorithm for price predictions is our main priority. FocusTSO started on the Flare Network first because the majority of the community holds FLR tokens instead of SGB. However, we plan to launch on Songbird in the very near future. Our goal is to build tools, help support infrastructure, and continue to produce educational content to help people understand the technical aspects of the network.",
-  "products": "Flare Airdrop Simulator: https://focusflr.app/   FocusTSO Delegation Portal: https://ftso.focusflr.app/",
+  "products": ["focusflr.app" , "ftso.focusflr.app"],
   "sgb_claim_addresses": [],
   "flr_claim_addresses": ["0xb084575CaCedf7DEdd78329656715651F8f66712"​]
 }
