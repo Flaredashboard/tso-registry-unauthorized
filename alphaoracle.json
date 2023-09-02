@@ -1,0 +1,14 @@
+{
+  "name": "AlphaOracle",
+  "website": "https://alphaoracle.io",
+  "twitter": "https://twitter.com/AlphaOracle1",
+  "general": "AlphaOracle is a US based Signal Provider to the Flare Network. Our goal is to provide reliable data to support applications and expand the ecosystem.",
+  "infrastructure": "AlphaOracle runs and maintains multiple observation nodes on SGB and FLR networks, as well as a validator Node on FLR. We also have delegation tools via our website.",
+  "safeguards": "We implement depegging safeguards",
+  "availability": "AlphaOracle strives to maintain an uptime for all nodes and provider submission as close to 100% as possible",
+  "selling": "AlphaOracle has sold to cover costs of infastructure and to build further.",
+  "tooling": "You can delegate, wrap, and unwrap at alphaoracle.io/delegate",
+  "products": ["https://alphaoracle.io/delegate"],
+  "sgb_claim_addresses": ["0xBF61Db1CDb43d196309824473fA82E5B17581159"],
+  "flr_claim_addresses": ["0x47B6EfFE71ABD4e8CdCC56f2341BEb404f804b87"]
+}
