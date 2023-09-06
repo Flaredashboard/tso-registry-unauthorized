@@ -1,0 +1,13 @@
+{
+  "name": "Fly2Sonic",
+  "website": "https://fly2sonic.com",
+  "twitter": "https://twitter.com/fly2sonic_ftso",
+  "general": "Based in Norway, Meet the heart of Fly2Sonic- AI/ML Specialist: Leading in predictive analytics and automation, ensuring our solutions are ahead of the curve. Algorithm Developer: Meticulously designing algorithms for optimal performance and security. DevOps Engineer: Bridging development and operations, ensuring streamlined deployment and robust infrastructure. Together, we collaboration sets the gold standard in tech innovation.",
+  "infrastructure": "At the moment, we are running two nodes on the Songbird network, but we have intentions to expand our infrastructure. Our current monthly expenses are roughly around 500 USD.",
+  "safeguards": "Fly2Sonic implements a range of safeguards, including price source adaptation, real-time alerts, and continuous monitoring, to ensure accurate and dependable data",
+  "availability": "Founded 2023, Fly2Sonic provides accurate and reliable data feeds to the Flare Network and a transparent, incentivized, risk-free delegation service. Our goal is to provide applications on the Flare and Songbird network with highly decentralized and accurate price data.",
+  "selling": "So far, we haven't sold any of our rewards and have been covering the infrastructure fee ourselves.",
+  "tooling": "Fly2Sonic is continuously enhancing our algorithmic system within the Songbird network. Once the initial VP is operational on the Flare network, we will commence work. Our aim is to create a subscription-based application that will optimize your newsfeed. If you have any suggestions or would like to explore collaboration opportunities, please don't hesitate to reach out to us via message.",
+  "sgb_claim_addresses": ["0xE6caa2BCa8b0E9004724E0600b38db52C17BCaC3"],
+  "flr_claim_addresses": [""]
+}
