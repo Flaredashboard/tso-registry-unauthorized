@@ -1,0 +1,14 @@
+{
+  "name": "True FTSO",
+  "website": "https://trueftso.com",
+  "twitter": "https://twitter.com/TrueFTSO",
+  "general": "European infrastructure provider delivering reliable data to Flare and Songbird Network, running Flare validator and also XRP validator.",
+  "infrastructure": "Two Flare nodes (observation and validator) and one Songbird node. Current expenses are about 300 USD/month.",
+  "safeguards": "Multiple safeguards against depegs and exchange failure incidents. Special algo always submits TRUE data even if it means success rate is 0 as you could see in March 2023. True FTSO doesn't just write about safeguards, it simply uses them.",
+  "availability": "Operating since October 2022",
+  "selling": "No dumping. No cheating.",
+  "tooling": "Working on auction portal.",
+  "products": [],
+  "sgb_claim_addresses": ["0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA"],
+  "flr_claim_addresses": ["0xb6deD9D9CA19af10C67f9A8be8ca75e38E166faA"]
+}
